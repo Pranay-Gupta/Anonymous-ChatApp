@@ -15,5 +15,5 @@ https://anonymous-chatapp-pranay.netlify.app/<br/>
 
 
 <h3> Setup<h3>
-  cd client && npm i && npm start 
+  cd client && npm i && npm start <br/>
   cd server && npm i && npm start
